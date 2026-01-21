@@ -1,0 +1,16 @@
+name: currency_exchange
+description: A Dart library for currency exchange and conversion using real-time exchange rates. Supports 150+ fiat currencies with a clean, stateless API.
+version: 0.1.0
+homepage: https://github.com/jmgiannattasio/currency_exchange
+repository: https://github.com/jmgiannattasio/currency_exchange
+issue_tracker: https://github.com/jmgiannattasio/currency_exchange/issues
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  http: ^1.2.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6

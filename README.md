@@ -226,4 +226,3 @@ This package is open source. See the LICENSE file for details.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-# currency_exchange
